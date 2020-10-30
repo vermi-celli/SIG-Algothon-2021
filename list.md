@@ -53,4 +53,4 @@ Lecture 35: Risk-Constrained Portfolio Optimization\
 [Lecture 53: Mean Reversion on Futures](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Mean_Reversion_on_Futures)\
 [Lecture 54: Example: Pairs Trading on Futures](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pairs_Trading)\
 [Lecture 55: Case Study: Traditional Value Factor](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Traditional_Value_Factor)\
-[Lecture 56: Case Study: Comparing ETFs](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Comparing_ETFs)\
+[Lecture 56: Case Study: Comparing ETFs](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Comparing_ETFs)
