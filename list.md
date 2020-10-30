@@ -36,10 +36,8 @@ Lecture 35: Risk-Constrained Portfolio OptimizationLecture 36: Principal Compone
 Lecture 37: Long-Short Equity — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Long-Short_Equity)]\
 Lecture 38: Example: Long-Short Equity Algorithm — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Long-Short_Equity)]\
 Lecture 39: Factor Analysis with Alphalens — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Factor_Analysis)]\
-Lecture 40: Why You Should Hedge Beta and Sector Exposures (Part I — [[Lecture Notebooks](undefined)]\
- — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Why_Hedge_I)]\
-Lecture 41: Why You Should Hedge Beta and Sector Exposures (Part II — [[Lecture Notebooks](undefined)]\
- — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Why_Hedge_II)]\
+Lecture 40: Why You Should Hedge Beta and Sector Exposures (Part I) — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Why_Hedge_I)]\
+Lecture 41: Why You Should Hedge Beta and Sector Exposures (Part II) — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Why_Hedge_II)]\
 Lecture 42: VaR and CVaR — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/VaR_and_CVaR)]\
 Lecture 43: Integration, Cointegration, and Stationarity — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Integration_Cointegration_and_Stationarity)]\
 Lecture 44: Introduction to Pairs Trading — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pairs_Trading)]\
@@ -55,4 +53,3 @@ Lecture 53: Mean Reversion on Futures — [[Lecture Notebooks](https://github.co
 Lecture 54: Example: Pairs Trading on Futures — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pairs_Trading)]\
 Lecture 55: Case Study: Traditional Value Factor — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Traditional_Value_Factor)]\
 Lecture 56: Case Study: Comparing ETFs — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Comparing_ETFs)]\
- — [[Lecture Notebooks](undefined)]\
