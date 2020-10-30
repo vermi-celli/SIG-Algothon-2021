@@ -40,13 +40,13 @@ Lecture 39: Factor Analysis with Alphalens — [[Lecture Notebooks](https://gith
 Lecture 40: Why You Should Hedge Beta and Sector Exposures (Part I) — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Why_Hedge_I)]\
 Lecture 41: Why You Should Hedge Beta and Sector Exposures (Part II) — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Why_Hedge_II)]\
 Lecture 42: VaR and CVaR — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/VaR_and_CVaR)]\
-Lecture 43: Integration, Cointegration, and Stationarity — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Integration_Cointegration_and_Stationarity)]\
-Lecture 44: Introduction to Pairs Trading — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pairs_Trading)]\
+Lecture 43: Integration, Cointegration, and Stationarity — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Integration_Cointegration_and_Stationarity)] [[Video](https://www.youtube.com/watch?v=Pn_RiDbK82M)]\
+Lecture 44: Introduction to Pairs Trading — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pairs_Trading)] [[Video](https://www.youtube.com/watch?v=JTucMRYMOyY)]\
 Lecture 45: Example: Basic Pairs Trading Algorithm — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pairs_Trading)]\
 Lecture 46: Example: Pairs Trading Algorithm — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pairs_Trading)]\
-Lecture 47: Autocorrelation and AR Models — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Autocorrelation_and_AR_Models)]\
+Lecture 47: Autocorrelation and AR Models — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Autocorrelation_and_AR_Models)] [[Video](https://www.youtube.com/watch?v=fnrSZvla51Y)]\
 Lecture 48: ARCH, GARCH, and GMM — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/ARCH_GARCH_and_GMM)]\
-Lecture 49: Kalman Filters — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Kalman_Filters)]\
+Lecture 49: Kalman Filters — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Kalman_Filters)] [[Video](https://www.youtube.com/watch?v=RxIdLu18SsE)]\
 Lecture 50: Example: Kalman Filter Pairs Trade — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Kalman_Filters)]\
 Lecture 51: Introduction to Futures — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Futures)]\
 Lecture 52: Futures Trading Considerations — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Futures_Trading_Considerations)]\
