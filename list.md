@@ -1,4 +1,4 @@
-Lecture 1: Introduction to Research [Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Research)\
+Lecture 1: Introduction to Research [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Research)]\
 Lecture 2: Introduction to Python [Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Python)\
 Lecture 3: Introduction to NumPy [Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_NumPy)\
 Lecture 4: Introduction to pandas [Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pandas)\
