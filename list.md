@@ -28,15 +28,15 @@ Lecture 27: Introduction to Volume, Slippage, and Liquidity — [[Lecture Notebo
 Lecture 28: Market Impact Models — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Market_Impact_Model)]\
 Lecture 29: Universe Selection — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Universe_Selection)] [[Video](https://www.youtube.com/watch?v=oa5RhuHVbH0)]\
 Lecture 30: The Capital Asset Pricing Model and Arbitrage Pricing Theory — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/CAPM_and_Arbitrage_Pricing_Theory)]\
-Lecture 31: Beta Hedging — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Beta_Hedging)]\
-Lecture 32: Fundamental Factor Models — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Fundamental_Factor_Models)]\
+Lecture 31: Beta Hedging — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Beta_Hedging)] [[Video](https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=22m14s)]\
+Lecture 32: Fundamental Factor Models — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Fundamental_Factor_Models)] [[Video](https://www.youtube.com/watch?v=P16zDtf0CE0)]\
 Lecture 33: Portfolio Analysis — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Portfolio_Analysis)]\
-Lecture 34: Factor Risk Exposure — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Factor_Risk_Exposure)]\
+Lecture 34: Factor Risk Exposure — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Factor_Risk_Exposure)] [[Video](https://www.youtube.com/watch?v=Ep8Y5JfQoRg)]\
 Lecture 35: Risk-Constrained Portfolio Optimization\
 Lecture 36: Principal Component Analysis — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/PCA)]\
 Lecture 37: Long-Short Equity — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Long-Short_Equity)]\
 Lecture 38: Example: Long-Short Equity Algorithm — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Long-Short_Equity)]\
-Lecture 39: Factor Analysis with Alphalens — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Factor_Analysis)]\
+Lecture 39: Factor Analysis with Alphalens — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Factor_Analysis)] [[Video](https://www.youtube.com/watch?v=v5IYcBxMDYE)]\
 Lecture 40: Why You Should Hedge Beta and Sector Exposures (Part I) — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Why_Hedge_I)]\
 Lecture 41: Why You Should Hedge Beta and Sector Exposures (Part II) — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Why_Hedge_II)]\
 Lecture 42: VaR and CVaR — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/VaR_and_CVaR)]\
