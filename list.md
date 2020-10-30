@@ -1,5 +1,5 @@
-Lecture 1: Introduction to Research — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Research)] [Video](https://www.youtube.com/watch?v=W-TlWzwM208)\
-Lecture 2: Introduction to Python — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Python)] [Video](https://www.youtube.com/watch?v=bQUWLkKzpxE)\
+Lecture 1: Introduction to Research — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Research)] [[Video](https://www.youtube.com/watch?v=W-TlWzwM208)]\
+Lecture 2: Introduction to Python — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Python)] [[Video](https://www.youtube.com/watch?v=bQUWLkKzpxE)]\
 Lecture 3: Introduction to NumPy — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_NumPy)] [[Video](https://www.youtube.com/watch?v=48RqKyD6fas)]\
 Lecture 4: Introduction to pandas — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pandas)] [[Video](https://www.youtube.com/watch?v=pAkEuv1lj08)]\
 Lecture 5: Plotting Data — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Plotting_Data)] [[Video](https://www.youtube.com/watch?v=nKq_wz3Qk8w)]\
