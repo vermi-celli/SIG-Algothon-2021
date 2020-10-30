@@ -4,7 +4,7 @@ Lecture 3: Introduction to NumPy — [[Lecture Notebooks](https://github.com/qua
 Lecture 4: Introduction to pandas — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pandas)] [[Video](https://www.youtube.com/watch?v=pAkEuv1lj08)]\
 Lecture 5: Plotting Data — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Plotting_Data)] [[Video](https://www.youtube.com/watch?v=nKq_wz3Qk8w)]\
 Lecture 6: Means — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Means)] [[Video](https://www.youtube.com/watch?v=XYbsBsRtCjw)]\
-Lecture 7: Variance — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Variance)] [[Video] (https://www.youtube.com/watch?v=0AWY0odmjSs)]\
+Lecture 7: Variance — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Variance)] [[Video](https://www.youtube.com/watch?v=0AWY0odmjSs)]\
 Lecture 8: Statistical Moments — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Statistical_Moments)] [[Video](https://www.youtube.com/watch?v=mkVA_xUWDI0)]\
 Lecture 9: Linear Correlation Analysis — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Linear_Correlation_Analysis)] [[Video](https://www.youtube.com/watch?v=GM76JkrVmRk?t=2m6s)]\
 Lecture 10: Instability of Estimates — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Instability_of_Estimates)] [[Video](https://www.youtube.com/watch?v=2pbu3_6lF40)]\
