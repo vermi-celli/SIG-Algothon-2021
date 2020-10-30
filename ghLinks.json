@@ -1,0 +1,214 @@
+[
+  {
+    "title": "arch garch and gmm",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/ARCH_GARCH_and_GMM"
+  },
+  {
+    "title": "arbitrage pricing theory",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Arbitrage_Pricing_Theory"
+  },
+  {
+    "title": "autocorrelation and ar models",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Autocorrelation_and_AR_Models"
+  },
+  {
+    "title": "beta hedging",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Beta_Hedging"
+  },
+  {
+    "title": "capm and arbitrage pricing theory",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/CAPM_and_Arbitrage_Pricing_Theory"
+  },
+  {
+    "title": "case study comparing etfs",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Comparing_ETFs"
+  },
+  {
+    "title": "case study traditional value factor",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Traditional_Value_Factor"
+  },
+  {
+    "title": "confidence intervals",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Confidence_Intervals"
+  },
+  {
+    "title": "estimating covariance matrices",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Estimating_Covariance_Matrices"
+  },
+  {
+    "title": "factor analysis",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Factor_Analysis"
+  },
+  {
+    "title": "factor based risk management",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Factor_Based_Risk_Management"
+  },
+  {
+    "title": "factor risk exposure",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Factor_Risk_Exposure"
+  },
+  {
+    "title": "fundamental factor models",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Fundamental_Factor_Models"
+  },
+  {
+    "title": "futures trading considerations",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Futures_Trading_Considerations"
+  },
+  {
+    "title": "hypothesis testing",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Hypothesis_Testing"
+  },
+  {
+    "title": "instability of estimates",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Instability_of_Estimates"
+  },
+  {
+    "title": "integration cointegration and stationarity",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Integration_Cointegration_and_Stationarity"
+  },
+  {
+    "title": "introduction to futures",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Futures"
+  },
+  {
+    "title": "introduction to numpy",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_NumPy"
+  },
+  {
+    "title": "introduction to pairs trading",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pairs_Trading"
+  },
+  {
+    "title": "introduction to pandas",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pandas"
+  },
+  {
+    "title": "introduction to python",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Python"
+  },
+  {
+    "title": "introduction to research",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Research"
+  },
+  {
+    "title": "introduction to volume slippage and liquidity",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Volume_Slippage_and_Liquidity"
+  },
+  {
+    "title": "kalman filters",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Kalman_Filters"
+  },
+  {
+    "title": "leverage",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Leverage"
+  },
+  {
+    "title": "linear correlation analysis",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Linear_Correlation_Analysis"
+  },
+  {
+    "title": "linear regression",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Linear_Regression"
+  },
+  {
+    "title": "long short equity",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Long-Short_Equity"
+  },
+  {
+    "title": "market impact model",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Market_Impact_Model"
+  },
+  {
+    "title": "maximum likelihood estimation",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Maximum_Likelihood_Estimation"
+  },
+  {
+    "title": "mean reversion on futures",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Mean_Reversion_on_Futures"
+  },
+  {
+    "title": "means",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Means"
+  },
+  {
+    "title": "model misspecification",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Model_Misspecification"
+  },
+  {
+    "title": "multiple linear regression",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Multiple_Linear_Regression"
+  },
+  {
+    "title": "pca",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/PCA"
+  },
+  {
+    "title": "plotting data",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Plotting_Data"
+  },
+  {
+    "title": "portfolio analysis",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Portfolio_Analysis"
+  },
+  {
+    "title": "position concentration risk",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Position_Concentration_Risk"
+  },
+  {
+    "title": "random variables",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Random_Variables"
+  },
+  {
+    "title": "ranking universes by factors",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Ranking_Universes_by_Factors"
+  },
+  {
+    "title": "regression model instability",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Regression_Model_Instability"
+  },
+  {
+    "title": "residuals analysis",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Residuals_Analysis"
+  },
+  {
+    "title": "spearman rank correlation",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Spearman_Rank_Correlation"
+  },
+  {
+    "title": "statistical moments",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Statistical_Moments"
+  },
+  {
+    "title": "the dangers of overfitting",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/The_Dangers_of_Overfitting"
+  },
+  {
+    "title": "universe selection",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Universe_Selection"
+  },
+  {
+    "title": "var and cvar",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/VaR_and_CVaR"
+  },
+  {
+    "title": "variance",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Variance"
+  },
+  {
+    "title": "violations of regression models",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Violations_of_Regression_Models"
+  },
+  {
+    "title": "why hedge i",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Why_Hedge_I"
+  },
+  {
+    "title": "why hedge ii",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Why_Hedge_II"
+  },
+  {
+    "title": "p hacking and multiple comparisons bias",
+    "href": "https://github.com/quantopian/research_public/tree/master/notebooks/lectures/p-Hacking_and_Multiple_Comparisons_Bias"
+  }
+]
