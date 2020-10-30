@@ -32,13 +32,13 @@
 [Lecture 32: Fundamental Factor Models](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Fundamental_Factor_Models)\
 [Lecture 33: Portfolio Analysis](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Portfolio_Analysis)\
 [Lecture 34: Factor Risk Exposure](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Factor_Risk_Exposure)\
-[Lecture 35: Risk-Constrained Portfolio Optimization](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Integration_Cointegration_and_Stationarity)\
-[Lecture 36: Principal Component Analysis](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Linear_Correlation_Analysis)\
+Lecture 35: Risk-Constrained Portfolio Optimization\
+[Lecture 36: Principal Component Analysis](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/PCA)\
 [Lecture 37: Long-Short Equity](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Long-Short_Equity)\
-[Lecture 38: Example: Long-Short Equity Algorithm](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Fundamental_Factor_Models)\
-[Lecture 39: Factor Analysis with Alphalens](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Fundamental_Factor_Models)\
-[Lecture 40: Why You Should Hedge Beta and Sector Exposures (Part I)](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Fundamental_Factor_Models)\
-[Lecture 41: Why You Should Hedge Beta and Sector Exposures (Part II)](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Fundamental_Factor_Models)\
+[Lecture 38: Example: Long-Short Equity Algorithm](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Long-Short_Equity)\
+[Lecture 39: Factor Analysis with Alphalens](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Factor_Analysis)\
+[Lecture 40: Why You Should Hedge Beta and Sector Exposures (Part I)](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Why_Hedge_I)\
+[Lecture 41: Why You Should Hedge Beta and Sector Exposures (Part II)](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Why_Hedge_II)\
 [Lecture 42: VaR and CVaR](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/VaR_and_CVaR)\
 [Lecture 43: Integration, Cointegration, and Stationarity](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Integration_Cointegration_and_Stationarity)\
 [Lecture 44: Introduction to Pairs Trading](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pairs_Trading)\
@@ -47,10 +47,10 @@
 [Lecture 47: Autocorrelation and AR Models](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Autocorrelation_and_AR_Models)\
 [Lecture 48: ARCH, GARCH, and GMM](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/ARCH_GARCH_and_GMM)\
 [Lecture 49: Kalman Filters](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Kalman_Filters)\
-[Lecture 50: Example: Kalman Filter Pairs Trade](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Confidence_Intervals)\
+[Lecture 50: Example: Kalman Filter Pairs Trade](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Kalman_Filters)\
 [Lecture 51: Introduction to Futures](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Futures)\
 [Lecture 52: Futures Trading Considerations](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Futures_Trading_Considerations)\
 [Lecture 53: Mean Reversion on Futures](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Mean_Reversion_on_Futures)\
-[Lecture 54: Example: Pairs Trading on Futures](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Futures_Trading_Considerations)\
+[Lecture 54: Example: Pairs Trading on Futures](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pairs_Trading)\
 [Lecture 55: Case Study: Traditional Value Factor](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Traditional_Value_Factor)\
 [Lecture 56: Case Study: Comparing ETFs](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Comparing_ETFs)\
