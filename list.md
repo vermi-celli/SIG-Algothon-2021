@@ -32,7 +32,8 @@ Lecture 31: Beta Hedging — [[Lecture Notebooks](https://github.com/quantopian/
 Lecture 32: Fundamental Factor Models — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Fundamental_Factor_Models)]\
 Lecture 33: Portfolio Analysis — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Portfolio_Analysis)]\
 Lecture 34: Factor Risk Exposure — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Factor_Risk_Exposure)]\
-Lecture 35: Risk-Constrained Portfolio OptimizationLecture 36: Principal Component Analysis — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/PCA)]\
+Lecture 35: Risk-Constrained Portfolio Optimization\
+Lecture 36: Principal Component Analysis — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/PCA)]\
 Lecture 37: Long-Short Equity — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Long-Short_Equity)]\
 Lecture 38: Example: Long-Short Equity Algorithm — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Long-Short_Equity)]\
 Lecture 39: Factor Analysis with Alphalens — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Factor_Analysis)]\
