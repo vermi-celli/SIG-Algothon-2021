@@ -9,24 +9,24 @@ Lecture 8: Statistical Moments — [[Lecture Notebooks](https://github.com/quant
 Lecture 9: Linear Correlation Analysis — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Linear_Correlation_Analysis)] [[Video](https://www.youtube.com/watch?v=GM76JkrVmRk?t=2m6s)]\
 Lecture 10: Instability of Estimates — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Instability_of_Estimates)] [[Video](https://www.youtube.com/watch?v=2pbu3_6lF40)]\
 Lecture 11: Random Variables — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Random_Variables)]\
-Lecture 12: Linear Regression — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Linear_Regression)]\
+Lecture 12: Linear Regression — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Linear_Regression)] [[Video](https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=3m36s)]\
 Lecture 13: Maximum Likelihood Estimation — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Maximum_Likelihood_Estimation)]\
-Lecture 14: Regression Model Instability — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Regression_Model_Instability)]\
+Lecture 14: Regression Model Instability — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Regression_Model_Instability)] [[Video](https://www.youtube.com/watch?v=HMQ34PfhzGE)]\
 Lecture 15: Multiple Linear Regression — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Multiple_Linear_Regression)]\
-Lecture 16: Violations of Regression Models — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Violations_of_Regression_Models)]\
-Lecture 17: Model Misspecification — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Model_Misspecification)]\
+Lecture 16: Violations of Regression Models — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Violations_of_Regression_Models)] [[Video](https://www.youtube.com/watch?v=xM94MRs8U3M)]\
+Lecture 17: Model Misspecification — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Model_Misspecification)] [[Video](https://www.youtube.com/watch?v=t4peS8Ak-sY)]\
 Lecture 18: Residual Analysis — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Residuals_Analysis)]\
-Lecture 19: The Dangers of Overfitting — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/The_Dangers_of_Overfitting)]\
+Lecture 19: The Dangers of Overfitting — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/The_Dangers_of_Overfitting)] [[Video](https://www.youtube.com/watch?v=KNCgvjyKrcw)]\
 Lecture 20: Hypothesis Testing — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Hypothesis_Testing)]\
 Lecture 21: Confidence Intervals — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Confidence_Intervals)]\
-Lecture 22: p-Hacking and Multiple Comparisons Bias — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/p-Hacking_and_Multiple_Comparisons_Bias)]\
-Lecture 23: Spearman Rank Correlation — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Spearman_Rank_Correlation)]\
+Lecture 22: p-Hacking and Multiple Comparisons Bias — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/p-Hacking_and_Multiple_Comparisons_Bias)] [[Video](https://www.youtube.com/watch?v=YiDfbYtgUPc)]\
+Lecture 23: Spearman Rank Correlation — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Spearman_Rank_Correlation)] [[Video](https://www.youtube.com/watch?v=GM76JkrVmRk?t=25m51s)]\
 Lecture 24: Leverage — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Leverage)]\
-Lecture 25: Position Concentration Risk — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Position_Concentration_Risk)]\
+Lecture 25: Position Concentration Risk — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Position_Concentration_Risk)] [[Video](https://www.youtube.com/watch?v=I1z7B2_FarQ)]\
 Lecture 26: Estimating Covariance Matrices — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Estimating_Covariance_Matrices)]\
 Lecture 27: Introduction to Volume, Slippage, and Liquidity — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Volume_Slippage_and_Liquidity)]\
 Lecture 28: Market Impact Models — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Market_Impact_Model)]\
-Lecture 29: Universe Selection — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Universe_Selection)]\
+Lecture 29: Universe Selection — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Universe_Selection)] [[Video](https://www.youtube.com/watch?v=oa5RhuHVbH0)]\
 Lecture 30: The Capital Asset Pricing Model and Arbitrage Pricing Theory — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/CAPM_and_Arbitrage_Pricing_Theory)]\
 Lecture 31: Beta Hedging — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Beta_Hedging)]\
 Lecture 32: Fundamental Factor Models — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Fundamental_Factor_Models)]\
