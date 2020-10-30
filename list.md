@@ -52,4 +52,4 @@ Lecture 52: Futures Trading Considerations — [[Lecture Notebooks](https://gith
 Lecture 53: Mean Reversion on Futures — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Mean_Reversion_on_Futures)]\
 Lecture 54: Example: Pairs Trading on Futures — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pairs_Trading)]\
 Lecture 55: Case Study: Traditional Value Factor — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Traditional_Value_Factor)]\
-Lecture 56: Case Study: Comparing ETFs — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Comparing_ETFs)]\
+Lecture 56: Case Study: Comparing ETFs — [[Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Comparing_ETFs)]
