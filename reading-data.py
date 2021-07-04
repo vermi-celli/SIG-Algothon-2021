@@ -24,9 +24,10 @@ for str in Progress:
     Stockmove.append(Price)
 
 Daylist = range(1, 251)
-fig, ax = plt.subplots(figsize=(10,6))
-ax.plot(Daylist,
-        Stockmove)
+plt.plot(Daylist, Stockmove)
+plt.xlabel('Day')
+plt.ylabel('Price')
+plt.show()
 
 #count=0
 #for day in days: 
