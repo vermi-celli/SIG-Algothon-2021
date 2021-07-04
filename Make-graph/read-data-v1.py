@@ -1,3 +1,7 @@
+# use this file to look at specific stocks one at a time
+#replace number in line 20, remember that python reads numbers from 0
+
+
 import numpy as np
 import pandas as pd 
 import matplotlib.pyplot as plt
