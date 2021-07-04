@@ -35,3 +35,5 @@ plt.show()
     #print(f'day {count}: {day}')
 
 #listlist[1] gets 100 instruments on first day
+
+#hi
