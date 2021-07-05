@@ -1,6 +1,7 @@
+#print out daily differences for selected stock
+
 import numpy as np
 import pandas as pd 
-import matplotlib.pyplot as plt
 
 f = open('/Users/ivykim/Downloads/algothon21-main/prices250.txt')
 
